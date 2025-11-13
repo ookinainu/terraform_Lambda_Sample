@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfvars
+lambda.zip
+
+# Python
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
